@@ -1,0 +1,42 @@
+# Legislation
+ - What 8 things does the DPA say data has to be?
+ - What 3 things does the CMA ban?
+ - What does copyright cover, and how do you get it?
+ - What does fair use cover?
+ - What 4 things does RIPA allow public bodies to demand?
+ - What 3 things does Snooper's Charter allow?
+
+# CPUs
+ - Draw an abstract CPU model
+ - Describe, in detail, 3 things that affect a CPU's performance
+
+# Image and Audio Storage
+ - Describe how bitmaps are stored, making reference to colour depth
+ - Describe how JPEGs and GIFs make their images smaller
+ - Describe how vector images work
+ - Describe how MP3 and FLAC files use compression, referring to bitrate
+
+# Storage
+ - Describe how magnetic storage stores a piece of information
+ - Describe how magnetic storage stores data as a whole
+ - Describe how optical stoage stores a single piece of information
+ - Describe how optical storage stores data as a whole
+ - Describe how an SSD stores a single piece of information
+ - Describe how an SSD stores data as a whole
+ - Order magnetic, optical and solid state storage in terms of speed
+
+# Compression
+ - Describe how run-length encoding works, with an example
+ - Describe how dictionary encoding works, with an example
+ - Give an example of how huffman encoding works
+
+# Network topologies
+ - Give pros and cons (2 each) of a STAR topology, and draw a diagram
+ - Give pros and cons (2 each) of a BUS topology, and draw a diagram
+ - Give pros and cons (2 each) of a RING topology, and draw a diagram
+ - Give pros and cons (2 each) of a MESH topology, and draw a diagram
+
+# Network Devices
+ - Describe how a hub works, giving pros and cons (1, 2)
+ - Describe how a switch works, giving pros and cons (2, 1)
+ - Describe how a router works (3 points)
